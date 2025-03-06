@@ -1,4 +1,4 @@
-package com.antonyf.simplegit
+package com.antonyf.simplegit.data
 
 data class Part(
     val id_part: String,
